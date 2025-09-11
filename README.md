@@ -3,6 +3,7 @@
 ---
 
 ## 🧑‍💻 About Me  
+- 🧒 Name: Adil Ferhan Nur
 - 🎓 Student of Teknik Informatika UIN Maliki Malang
 - 💡 I like to learn about **IoT, Web Dev, dan AI**  
 - 🚀 Goal: Become a programmer who can create the latest innovations and accompanied by coffee ☕  
